@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chris-hellon, i'm a Full Stack .NET Developer
-- 💞️ I’m looking to collaborate on .NET, C#, MSSQL
+- 👋 Hi, I’m @chris-hellon, i'm a Full Stack ASP.NET Developer
+- 💞️ I’m looking to collaborate on ASP.NET, C#, MSSQL
 - 📫 How to reach me chrisghellon@Gmail.com
 
 <!---
