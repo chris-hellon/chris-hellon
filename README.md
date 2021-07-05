@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chris-hellon, .NET Develope
+- 👋 Hi, I’m @chris-hellon, .NET Developer
 - 💞️ I’m looking to collaborate on ASP.NET, C#, MSSQL
 - 📫 How to reach me chrisghellon@gmail.com
 
