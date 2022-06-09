@@ -2,7 +2,7 @@
 - 💞️ I’m looking to collaborate on ASP.NET, C#, MSSQL
 - 📫 How to reach me chrisghellon@gmail.com
 
-Prolific, self-driven .NET Developer, with a proven track record of success in developing and implementing web applications and web-based solutions. With 9+ years of experience working with some of the largest hospitality clients within the UK and Vietnam.
+Prolific, self-driven .NET Developer, with a proven track record of success in developing and implementing web applications and web-based solutions. With 10 years of experience working with some of the largest hospitality clients within the UK and Vietnam.
 
 Specialities:
 
