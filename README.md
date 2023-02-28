@@ -2,12 +2,14 @@ Prolific, self-driven .NET Developer, with a proven track record of success in d
 
 Specialities:
 
-       •	ASP.NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API
-       •	.NET Framework, .NET Core
+       •	ASP.NET Core, ASP.NET MVC, ASP.NET Web API, ASP.NET
+       •	.NET Core 3.1/5/6, .NET Framework 4.6>, 
        •	C#
-       •	Microsoft Visual Studio 2019, Microsoft Azure
+       •	Microsoft Visual Studio 2022
        •	Microsoft SQL Server
        •	TFS, Azure DevOps, Git
+       •	Microsoft Azure Web App, Microsoft Azure SQL Database
+       •	Microsoft Azure Container/Blob Storage, Azure CDN
        •	OOP, Clean Architecture
 
 <!---
