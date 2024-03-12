@@ -2,15 +2,15 @@ Prolific, self-driven .NET Developer, with a proven track record of success in d
 
 Specialities:
 
-       •	ASP.NET Core, ASP.NET MVC, ASP.NET Web API, ASP.NET
-       •	.NET Core 3.1/5/6, .NET Framework 4.6>, 
+       •	Blazor, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, ASP.NET
+       •	.NET Core 3.1/5/6/8, .NET Framework 4.6>, 
        •	C#
-       •	Microsoft Visual Studio 2022
+       •	Microsoft Visual Studio 2022, Jetbrains Rider
        •	Microsoft SQL Server
        •	TFS, Azure DevOps, Git
        •	Microsoft Azure Web App, Microsoft Azure SQL Database
        •	Microsoft Azure Container/Blob Storage, Azure CDN
-       •	OOP, Clean Architecture
+       •	OOP, Clean Architecture, CQRS, Mediator Pattern
 
 <!---
 chris-hellon/chris-hellon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
