@@ -3,7 +3,7 @@ Prolific, self-driven .NET Developer, with a proven track record of success in d
 Specialities:
 
        •	Blazor, ASP.NET Core, ASP.NET MVC, ASP.NET Web API, ASP.NET
-       •	.NET Core 3.1/5/6/8, .NET Framework 4.6, 
+       •	.NET Core 3.1/5/6/8/9, .NET Framework 4.6, 
        •	C#
        •	Microsoft Visual Studio, Jetbrains Rider
        •	Microsoft SQL Server
